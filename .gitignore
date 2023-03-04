@@ -2,3 +2,4 @@ node_*
 .idea
 package-lock.json
 .deps
+artifacts
